@@ -37,7 +37,7 @@ This Epicodus project creates a C# MVC web app for a salon that is connected to 
 
 * [.NET](https://dotnet.microsoft.com/)
 * A text editor–we prefer [VS Code](https://code.visualstudio.com/)
-* [MySQL WorkBench] (https://dev.mysql.com/downloads/workbench/)
+* [MySQL WorkBench](https://dev.mysql.com/downloads/workbench/)
 
 ### Installation
 
@@ -48,14 +48,14 @@ This Epicodus project creates a C# MVC web app for a salon that is connected to 
 
 
 ### MySQL  and MySQL Workbench Configuration
-1. Download and install [MySQL] (https://dev.mysql.com/downloads/file/?id=484914) by selecting `No thanks, just start my download`
+1. Download and install [MySQL](https://dev.mysql.com/downloads/file/?id=484914) by selecting `No thanks, just start my download`
 2. Follow along with Installer until reaching `Configuration` page
 3. Select `Use Legacy Password Encryption`
 4. Set password as desired 
 5. Click `Finish`
 6. Open Terminal and enter command `echo 'export PATH="/usr/local/mysql/bin:$PATH"' >> ~/.bash_profile`
 7. Type `source ~/.bash_profile` to verify successful MySQL installation
-8. Download and install [MySQL WorkBench] (https://dev.mysql.com/downloads/workbench/)
+8. Download and install [MySQL WorkBench](https://dev.mysql.com/downloads/workbench/)
 6. Open MySQL Workbench and select Administration tab in upper left of navigator window
 7. Select `Data Import/Restore` 
 8. Select `Import from Self-Contained File`
