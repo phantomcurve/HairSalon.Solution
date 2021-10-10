@@ -17,8 +17,8 @@ This Epicodus project creates a C# MVC web app for a salon that is connected to 
 * Selecting `See All Stylists` on `Index` or `Stylist` page shows all stylists at the salon
 * Selecting `Add Stylist` link directs user to a form to add a stylist
 * Submitting new stylist redirects user to `Stylist` index page
-* `Client` index page shows all clients and their preerred stylist
-* Selecting an individual stylist show a list of all clients belonging to that stylist
+* `Client` index page shows all clients and their preferred stylist
+* Selecting an individual stylist shows a list of all clients belonging to that stylist
 
 ## Technologies Used
 
@@ -42,7 +42,7 @@ This Epicodus project creates a C# MVC web app for a salon that is connected to 
 ### Installation
 
 1. Open terminal on your machine
-2. Clone the repository: `git clone https://github.com/phantomcurve/Hair-Salon.git`
+2. Clone the repository: `git clone https://github.com/phantomcurve/HairSalon.Solution.git`
 3. Navigate to the `\HairSalon` directory
 4. Open with your preferred text editor to view the code
 
@@ -66,7 +66,7 @@ This Epicodus project creates a C# MVC web app for a salon that is connected to 
 
 ### appsettings.json configuration
 
-1. Navigate to \HairSalon directory in VSCode
+1. Navigate to `\HairSalon` directory in VSCode
 2. Create a file in this directory called `appsettings.json`
 3. In this file add the following: 
 ``{
