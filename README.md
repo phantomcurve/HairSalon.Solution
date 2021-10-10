@@ -69,11 +69,11 @@ This Epicodus project creates a C# MVC web app for a salon that is connected to 
 1. Navigate to \HairSalon directory in VSCode
 2. Create a file in this directory called `appsettings.json`
 3. In this file add the following: 
-{
+``{
   "ConnectionStrings": {
       "DefaultConnection": "Server=localhost;Port=3306;database=hair_salon;uid=root;pwd=[YOUR PASSWORD HERE & DELETE THESE SQUARE BRACKETS!];"
   }
-}
+}``
 
 
 * #### Run the Program
